@@ -1,2 +1,4 @@
 # app-dev
 My first repository
+ **Prison Break**
+ *Prison Break is an American television series that follows the gripping story of Michael Scofield, a brilliant structural engineer who deliberately gets himself imprisoned in order to help his older brother, Lincoln Burrows, escape from death row. Lincoln has been wrongfully convicted of a high-profile murder, and Michael believes the only way to save him is from the inside. Armed with detailed knowledge of the prison's layout—secretly tattooed on his body—Michael devises an elaborate escape plan. As the story unfolds, the series delves into themes of loyalty, sacrifice, and justice, while introducing a diverse cast of characters, each with their own motives and secrets. With its intense plot twists, suspenseful storytelling, and emotional depth, Prison Break became a global hit and remains one of the most iconic action-drama series on television. *
